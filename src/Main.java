@@ -17,13 +17,13 @@ public class Main {
         System.out.println(" Значение переменной kind с типом double равно " + kind);
 
         System.out.println("Задание 2 ");
-        float a = (float) 27.12;
-      //  int b = 987678965549;
+        float a = 27.12f;
+        long b = 987678965549L;
         double c = 2.786;
         boolean d = false;
-        int e = 569;
+        char e = 569;
         short g = -159;
-        short l = 27897;
+        int l = 27897;
         byte m = 67;
 
         System.out.println("Задание 3");
